@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Exploratorio Humanidades Digitales
 tagline:          Humanidades Digitales desde la Universidad de Antioquia
 description:      ''
-url:              http://hyde.getpoole.com
-baseurl:          /
+url:              https://neotropico.github.io
+baseurl:          /ExploratorioHD/
 
 author:
   name:           'Mark Otto'
