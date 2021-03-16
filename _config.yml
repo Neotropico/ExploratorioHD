@@ -7,8 +7,8 @@ highlighter:      pygments
 title: Exploratorio Humanidades Digitales
 tagline: Humanidades Digitales desde la Universidad de Antioquia
 description: 'cool kids never have the time'
-url: "https://neotropico.github.io/ExploratorioHD/"
-baseurl: ""
+url: "https://neotropico.github.io/"
+baseurl: "/ExploratorioHD"
 
 author:
   name:           Equipo del Exploratorio
