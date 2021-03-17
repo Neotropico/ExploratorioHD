@@ -1,6 +1,12 @@
 ---
 layout: default
 
+{% include base.html %}
+<link href="{{base}}/assets/style.css" rel="stylesheet" />
+<a href="{{ base }}">Back to home</a>
+<a href="{{ base }}/about.html">About me</a>
+<a href="{{ base }}{{ post.url }}">Read "{{ post.title }}"</a>
+
 ---
 
 <div class="page">
