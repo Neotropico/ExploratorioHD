@@ -3,8 +3,8 @@
 title: Exploratorio Humanidades Digitales
 tagline: Humanidades Digitales desde la Universidad de Antioquia
 description: 'cool kids never have the time'
-url: "https://neotropico.github.io/"
-baseurl: "/ExploratorioHD/"
+url: "https://neotropico.github.io/ExploratorioHD/"
+baseurl: "/"
 
 
 author:
