@@ -6,6 +6,9 @@ description: 'cool kids never have the time'
 url: "https://neotropico.github.io/"
 baseurl: "/"
 
+plugins:
+-jekyll-relative-links
+
 relative-links:
 enable: true
 collections: false
