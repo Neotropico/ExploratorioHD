@@ -1,7 +1,7 @@
 ---
 layout:page
 title: Sobre nosotros
-permalink:/Sobre-nosotros
+
 ---
 
 ##por favor
