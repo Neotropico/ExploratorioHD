@@ -7,7 +7,7 @@ url: "https://neotropico.github.io/"
 baseurl: "/ExploratorioHD/"
 
 plugins:
--jekyll-relative-links
+jekyll-relative-links
 
 relative-links:
 enable: true
