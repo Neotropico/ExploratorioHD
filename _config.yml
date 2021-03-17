@@ -6,12 +6,6 @@ description: 'cool kids never have the time'
 url: "https://neotropico.github.io/"
 baseurl: "/ExploratorioHD/"
 
-plugins:
-jekyll-relative-links
-
-relative-links:
-enable: true
-collections: false
 
 author:
   name:           Equipo del Exploratorio
